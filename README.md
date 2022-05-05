@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS + Node.js + MongoDB
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me https://www.linkedin.com/in/janescleston/ 
-- 
+- https://linktr.ee/jcleston
 
 <!---
 jcleston/jcleston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
